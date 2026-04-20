@@ -1,0 +1,25 @@
+title: My Personal Blog
+description: A developer's blog about technology, programming, and ideas
+author: Your Name
+url: https://yourblog.com
+baseurl: ""
+
+theme: jekyll-theme-console
+plugins:
+  - jekyll-seo-tag
+  - jekyll-feed
+
+style: dark
+listen_for_clients_preferred_style: true
+
+header_pages:
+  - index.md
+  - about.md
+  - blog.md
+
+footer: '© 2026 Your Name. All rights reserved.'
+
+markdown: kramdown
+
+sass:
+  style: compressed
