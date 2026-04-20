@@ -4,7 +4,7 @@ author: Your Name
 url: https://PedroCarvalho768.github.io
 baseurl: ""
 
-theme: jekyll-theme-console
+remote_theme: jekyll-theme-console
 plugins:
   - jekyll-seo-tag
   - jekyll-feed
